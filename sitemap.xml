@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <lastmod>2025-07-06T13:33:35+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-07-06T13:33:35+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
