@@ -3,2397 +3,1943 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>./docs/welcome/</loc>
+    <loc>//localhost:1313/docs/welcome/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/welcome/"
+      href="//localhost:1313/it/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/welcome/"
+      href="//localhost:1313/ja/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/welcome/"
+      href="//localhost:1313/zh-cn/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/welcome/"
+      href="//localhost:1313/docs/welcome/"
     />
   </url>
   <url>
-    <loc>./docs/installation/</loc>
+    <loc>//localhost:1313/docs/installation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/installation/"
+      href="//localhost:1313/it/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/installation/"
+      href="//localhost:1313/ja/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/installation/"
+      href="//localhost:1313/zh-cn/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/installation/"
+      href="//localhost:1313/docs/installation/"
     />
   </url>
   <url>
-    <loc>./docs/getting-started/</loc>
+    <loc>//localhost:1313/docs/getting-started/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/per-iniziare/"
+      href="//localhost:1313/it/docs/per-iniziare/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/getting-started/"
+      href="//localhost:1313/ja/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/getting-started/"
+      href="//localhost:1313/zh-cn/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/getting-started/"
+      href="//localhost:1313/docs/getting-started/"
     />
   </url>
   <url>
-    <loc>./docs/configuration/</loc>
+    <loc>//localhost:1313/docs/configuration/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/configurazioni/"
+      href="//localhost:1313/it/docs/configurazioni/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/configuration/"
+      href="//localhost:1313/ja/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/configuration/"
+      href="//localhost:1313/zh-cn/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/configuration/"
+      href="//localhost:1313/docs/configuration/"
     />
   </url>
   <url>
-    <loc>./docs/homepage-layout/</loc>
+    <loc>//localhost:1313/docs/homepage-layout/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/homepage-layout/"
+      href="//localhost:1313/it/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/homepage-layout/"
+      href="//localhost:1313/ja/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/homepage-layout/"
+      href="//localhost:1313/zh-cn/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/homepage-layout/"
+      href="//localhost:1313/docs/homepage-layout/"
     />
   </url>
   <url>
-    <loc>./docs/shortcodes/</loc>
+    <loc>//localhost:1313/docs/shortcodes/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/shortcodes/"
+      href="//localhost:1313/it/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/shortcodes/"
+      href="//localhost:1313/ja/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/shortcodes/"
+      href="//localhost:1313/zh-cn/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/shortcodes/"
+      href="//localhost:1313/docs/shortcodes/"
     />
   </url>
   <url>
-    <loc>./docs/front-matter/</loc>
+    <loc>//localhost:1313/docs/front-matter/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/front-matter/"
+      href="//localhost:1313/it/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/front-matter/"
+      href="//localhost:1313/ja/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/front-matter/"
+      href="//localhost:1313/zh-cn/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/front-matter/"
+      href="//localhost:1313/docs/front-matter/"
     />
   </url>
   <url>
-    <loc>./docs/multi-author/</loc>
+    <loc>//localhost:1313/docs/multi-author/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/multi-author/"
+      href="//localhost:1313/it/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/multi-author/"
+      href="//localhost:1313/ja/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/multi-author/"
+      href="//localhost:1313/zh-cn/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/multi-author/"
+      href="//localhost:1313/docs/multi-author/"
     />
   </url>
   <url>
-    <loc>./docs/partials/</loc>
+    <loc>//localhost:1313/docs/partials/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/partials/"
+      href="//localhost:1313/it/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/partials/"
+      href="//localhost:1313/ja/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/partials/"
+      href="//localhost:1313/zh-cn/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/partials/"
+      href="//localhost:1313/docs/partials/"
     />
   </url>
   <url>
-    <loc>./docs/thumbnails/</loc>
+    <loc>//localhost:1313/docs/thumbnails/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/thumbnails/"
+      href="//localhost:1313/it/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/thumbnails/"
+      href="//localhost:1313/ja/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/thumbnails/"
+      href="//localhost:1313/zh-cn/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/thumbnails/"
+      href="//localhost:1313/docs/thumbnails/"
     />
   </url>
   <url>
-    <loc>./docs/content-examples/</loc>
+    <loc>//localhost:1313/docs/content-examples/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/content-examples/"
+      href="//localhost:1313/it/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/content-examples/"
+      href="//localhost:1313/ja/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/content-examples/"
+      href="//localhost:1313/zh-cn/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/content-examples/"
+      href="//localhost:1313/docs/content-examples/"
     />
   </url>
   <url>
-    <loc>./docs/series/</loc>
+    <loc>//localhost:1313/docs/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/series/"
+      href="//localhost:1313/it/docs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/series/"
+      href="//localhost:1313/ja/docs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/series/"
+      href="//localhost:1313/zh-cn/docs/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/series/"
+      href="//localhost:1313/docs/series/"
     />
   </url>
   <url>
-    <loc>./docs/advanced-customisation/</loc>
+    <loc>//localhost:1313/docs/advanced-customisation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/advanced-customisation/"
+      href="//localhost:1313/it/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/advanced-customisation/"
+      href="//localhost:1313/ja/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/advanced-customisation/"
+      href="//localhost:1313/zh-cn/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/advanced-customisation/"
+      href="//localhost:1313/docs/advanced-customisation/"
     />
   </url>
   <url>
-    <loc>./docs/hosting-deployment/</loc>
+    <loc>//localhost:1313/docs/hosting-deployment/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/hosting-deployment/"
+      href="//localhost:1313/it/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/hosting-deployment/"
+      href="//localhost:1313/ja/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/hosting-deployment/"
+      href="//localhost:1313/zh-cn/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/hosting-deployment/"
+      href="//localhost:1313/docs/hosting-deployment/"
     />
   </url>
   <url>
-    <loc>./docs/firebase-views/</loc>
+    <loc>//localhost:1313/docs/firebase-views/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/firebase-views/"
+      href="//localhost:1313/it/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/firebase-views/"
+      href="//localhost:1313/ja/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/firebase-views/"
+      href="//localhost:1313/zh-cn/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/firebase-views/"
+      href="//localhost:1313/docs/firebase-views/"
     />
   </url>
   <url>
-    <loc>./posts/1/</loc>
+    <loc>//localhost:1313/posts/1/</loc>
     <lastmod>2025-07-06T15:01:34+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>./posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-07-06T15:01:34+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>./</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-07-06T15:01:34+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/"
+      href="//localhost:1313/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/"
+      href="//localhost:1313/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/"
+      href="//localhost:1313/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./"
+      href="//localhost:1313/"
     />
   </url>
   <url>
-    <loc>./authors/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./authors/"
-    />
-  </url>
-  <url>
-    <loc>./categories/blowfish/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/categories/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/categories/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/categories/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./categories/blowfish/"
-    />
-  </url>
-  <url>
-    <loc>./tags/blowfish/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/blowfish/"
-    />
-  </url>
-  <url>
-    <loc>./categories/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./categories/"
-    />
-  </url>
-  <url>
-    <loc>./tags/hugo/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/hugo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/hugo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/tags/hugo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/hugo/"
-    />
-  </url>
-  <url>
-    <loc>./authors/nunocoracao/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/authors/nunocoracao/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/authors/nunocoracao/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/authors/nunocoracao/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./authors/nunocoracao/"
-    />
-  </url>
-  <url>
-    <loc>./categories/open-source/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/categories/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/categories/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./categories/open-source/"
-    />
-  </url>
-  <url>
-    <loc>./guides/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/guides/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/guides/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/guides/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./guides/"
-    />
-  </url>
-  <url>
-    <loc>./tags/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/"
-    />
-  </url>
-  <url>
-    <loc>./tags/tutorial/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/tutorial/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/tutorial/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/tutorial/"
-    />
-  </url>
-  <url>
-    <loc>./examples/</loc>
+    <loc>//localhost:1313/examples/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/examples/"
+      href="//localhost:1313/it/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/examples/"
+      href="//localhost:1313/ja/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/examples/"
+      href="//localhost:1313/zh-cn/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./examples/"
+      href="//localhost:1313/examples/"
     />
   </url>
   <url>
-    <loc>./tags/authors/</loc>
+    <loc>//localhost:1313/tags/authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/authors/"
+      href="//localhost:1313/it/tags/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/authors/"
+      href="//localhost:1313/ja/tags/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/authors/"
+      href="//localhost:1313/tags/authors/"
     />
   </url>
   <url>
-    <loc>./authors/secondauthor/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/authors/secondauthor/"
+      href="//localhost:1313/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/authors/secondauthor/"
+      href="//localhost:1313/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/authors/secondauthor/"
+      href="//localhost:1313/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./authors/secondauthor/"
+      href="//localhost:1313/authors/"
     />
   </url>
   <url>
-    <loc>./samples/multiple-authors/</loc>
+    <loc>//localhost:1313/authors/secondauthor/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/multiple-authors/"
+      href="//localhost:1313/it/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/multiple-authors/"
+      href="//localhost:1313/ja/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/multiple-authors/"
+      href="//localhost:1313/zh-cn/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/multiple-authors/"
+      href="//localhost:1313/authors/secondauthor/"
     />
   </url>
   <url>
-    <loc>./tags/sample/</loc>
+    <loc>//localhost:1313/samples/multiple-authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/sample/"
+      href="//localhost:1313/it/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/sample/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/sample/"
-    />
-  </url>
-  <url>
-    <loc>./samples/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/samples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/samples/"
+      href="//localhost:1313/ja/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/"
+      href="//localhost:1313/zh-cn/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/"
+      href="//localhost:1313/samples/multiple-authors/"
     />
   </url>
   <url>
-    <loc>./tags/thumbnail/</loc>
+    <loc>//localhost:1313/authors/nunocoracao/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="//localhost:1313/it/authors/nunocoracao/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/authors/nunocoracao/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="//localhost:1313/zh-cn/authors/nunocoracao/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/authors/nunocoracao/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/sample/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="//localhost:1313/it/tags/sample/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/tags/sample/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/sample/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/samples/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="//localhost:1313/it/samples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/samples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="//localhost:1313/zh-cn/samples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/samples/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="//localhost:1313/it/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="//localhost:1313/zh-cn/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/thumbnail/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/thumbnail/"
+      href="//localhost:1313/it/tags/thumbnail/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/thumbnail/"
+      href="//localhost:1313/ja/tags/thumbnail/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/thumbnail/"
+      href="//localhost:1313/tags/thumbnail/"
     />
   </url>
   <url>
-    <loc>./samples/thumbnail_sample/</loc>
+    <loc>//localhost:1313/samples/thumbnail_sample/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/thumbnail_sample/"
+      href="//localhost:1313/it/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/thumbnail_sample/"
+      href="//localhost:1313/ja/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/thumbnail_sample/"
+      href="//localhost:1313/zh-cn/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/thumbnail_sample/"
+      href="//localhost:1313/samples/thumbnail_sample/"
     />
   </url>
   <url>
-    <loc>./samples/icons/</loc>
+    <loc>//localhost:1313/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/icons/"
+      href="//localhost:1313/it/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/icons/"
+      href="//localhost:1313/ja/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/icons/"
+      href="//localhost:1313/zh-cn/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/icons/"
+      href="//localhost:1313/samples/icons/"
     />
   </url>
   <url>
-    <loc>./tags/icons/</loc>
+    <loc>//localhost:1313/tags/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/icons/"
+      href="//localhost:1313/it/tags/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/icons/"
+      href="//localhost:1313/ja/tags/icons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/icons/"
+      href="//localhost:1313/tags/icons/"
     />
   </url>
   <url>
-    <loc>./tags/shortcodes/</loc>
+    <loc>//localhost:1313/tags/shortcodes/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/shortcodes/"
+      href="//localhost:1313/it/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/shortcodes/"
+      href="//localhost:1313/ja/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/shortcodes/"
+      href="//localhost:1313/tags/shortcodes/"
     />
   </url>
   <url>
-    <loc>./tags/css/</loc>
+    <loc>//localhost:1313/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/css/"
+      href="//localhost:1313/it/tags/css/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/css/"
+      href="//localhost:1313/ja/tags/css/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/css/"
+      href="//localhost:1313/zh-cn/tags/css/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/css/"
+      href="//localhost:1313/tags/css/"
     />
   </url>
   <url>
-    <loc>./tags/html/</loc>
+    <loc>//localhost:1313/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/html/"
+      href="//localhost:1313/it/tags/html/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/html/"
+      href="//localhost:1313/ja/tags/html/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/html/"
+      href="//localhost:1313/zh-cn/tags/html/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/html/"
+      href="//localhost:1313/tags/html/"
     />
   </url>
   <url>
-    <loc>./samples/markdown/</loc>
+    <loc>//localhost:1313/samples/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/markdown/"
+      href="//localhost:1313/it/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/markdown/"
+      href="//localhost:1313/ja/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/markdown/"
+      href="//localhost:1313/zh-cn/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/markdown/"
+      href="//localhost:1313/samples/markdown/"
     />
   </url>
   <url>
-    <loc>./tags/markdown/</loc>
+    <loc>//localhost:1313/tags/markdown/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/markdown/"
+      href="//localhost:1313/it/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/markdown/"
+      href="//localhost:1313/ja/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/markdown/"
+      href="//localhost:1313/zh-cn/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/markdown/"
+      href="//localhost:1313/tags/markdown/"
     />
   </url>
   <url>
-    <loc>./tags/gist/</loc>
+    <loc>//localhost:1313/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/gist/"
+      href="//localhost:1313/it/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/gist/"
+      href="//localhost:1313/ja/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/gist/"
+      href="//localhost:1313/zh-cn/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/gist/"
+      href="//localhost:1313/tags/gist/"
     />
   </url>
   <url>
-    <loc>./tags/privacy/</loc>
+    <loc>//localhost:1313/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/privacy/"
+      href="//localhost:1313/it/tags/privacy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/privacy/"
+      href="//localhost:1313/ja/tags/privacy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/privacy/"
+      href="//localhost:1313/tags/privacy/"
     />
   </url>
   <url>
-    <loc>./samples/rich-content/</loc>
+    <loc>//localhost:1313/samples/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/rich-content/"
+      href="//localhost:1313/it/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/rich-content/"
+      href="//localhost:1313/ja/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/rich-content/"
+      href="//localhost:1313/zh-cn/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/rich-content/"
+      href="//localhost:1313/samples/rich-content/"
     />
   </url>
   <url>
-    <loc>./tags/twitter/</loc>
+    <loc>//localhost:1313/tags/twitter/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/twitter/"
+      href="//localhost:1313/it/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/twitter/"
+      href="//localhost:1313/ja/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/twitter/"
+      href="//localhost:1313/zh-cn/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/twitter/"
+      href="//localhost:1313/tags/twitter/"
     />
   </url>
   <url>
-    <loc>./tags/vimeo/</loc>
+    <loc>//localhost:1313/tags/vimeo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/vimeo/"
+      href="//localhost:1313/it/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/vimeo/"
+      href="//localhost:1313/ja/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/vimeo/"
+      href="//localhost:1313/zh-cn/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/vimeo/"
+      href="//localhost:1313/tags/vimeo/"
     />
   </url>
   <url>
-    <loc>./tags/youtube/</loc>
+    <loc>//localhost:1313/tags/youtube/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/youtube/"
+      href="//localhost:1313/it/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/youtube/"
+      href="//localhost:1313/ja/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/youtube/"
+      href="//localhost:1313/zh-cn/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/youtube/"
+      href="//localhost:1313/tags/youtube/"
     />
   </url>
   <url>
-    <loc>./tags/latin/</loc>
+    <loc>//localhost:1313/tags/latin/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/latin/"
+      href="//localhost:1313/it/tags/latin/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/latin/"
+      href="//localhost:1313/ja/tags/latin/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/latin/"
+      href="//localhost:1313/tags/latin/"
     />
   </url>
   <url>
-    <loc>./tags/text/</loc>
+    <loc>//localhost:1313/tags/text/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/text/"
+      href="//localhost:1313/it/tags/text/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/text/"
+      href="//localhost:1313/ja/tags/text/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/text/"
+      href="//localhost:1313/tags/text/"
     />
   </url>
   <url>
-    <loc>./tags/katex/</loc>
+    <loc>//localhost:1313/tags/katex/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/katex/"
+      href="//localhost:1313/it/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/katex/"
+      href="//localhost:1313/ja/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/katex/"
+      href="//localhost:1313/zh-cn/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/katex/"
+      href="//localhost:1313/tags/katex/"
     />
   </url>
   <url>
-    <loc>./samples/mathematical-notation/</loc>
+    <loc>//localhost:1313/samples/mathematical-notation/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/mathematical-notation/"
+      href="//localhost:1313/it/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/mathematical-notation/"
+      href="//localhost:1313/ja/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/mathematical-notation/"
+      href="//localhost:1313/zh-cn/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/mathematical-notation/"
+      href="//localhost:1313/samples/mathematical-notation/"
     />
   </url>
   <url>
-    <loc>./tags/maths/</loc>
+    <loc>//localhost:1313/tags/maths/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/maths/"
+      href="//localhost:1313/it/tags/maths/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/maths/"
+      href="//localhost:1313/ja/tags/maths/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/maths/"
+      href="//localhost:1313/tags/maths/"
     />
   </url>
   <url>
-    <loc>./tags/chart/</loc>
+    <loc>//localhost:1313/tags/chart/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/chart/"
+      href="//localhost:1313/it/tags/chart/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/chart/"
+      href="//localhost:1313/ja/tags/chart/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/chart/"
+      href="//localhost:1313/tags/chart/"
     />
   </url>
   <url>
-    <loc>./samples/charts/</loc>
+    <loc>//localhost:1313/samples/charts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/charts/"
+      href="//localhost:1313/it/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/charts/"
+      href="//localhost:1313/ja/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/charts/"
+      href="//localhost:1313/zh-cn/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/charts/"
+      href="//localhost:1313/samples/charts/"
     />
   </url>
   <url>
-    <loc>./tags/diagram/</loc>
+    <loc>//localhost:1313/tags/diagram/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/diagram/"
+      href="//localhost:1313/it/tags/diagram/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/diagram/"
+      href="//localhost:1313/ja/tags/diagram/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/diagram/"
+      href="//localhost:1313/tags/diagram/"
     />
   </url>
   <url>
-    <loc>./samples/diagrams-flowcharts/</loc>
+    <loc>//localhost:1313/samples/diagrams-flowcharts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/diagrams-flowcharts/"
+      href="//localhost:1313/it/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/diagrams-flowcharts/"
+      href="//localhost:1313/ja/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/diagrams-flowcharts/"
+      href="//localhost:1313/zh-cn/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/diagrams-flowcharts/"
+      href="//localhost:1313/samples/diagrams-flowcharts/"
     />
   </url>
   <url>
-    <loc>./tags/graph/</loc>
+    <loc>//localhost:1313/tags/graph/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/graph/"
+      href="//localhost:1313/it/tags/graph/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/graph/"
+      href="//localhost:1313/ja/tags/graph/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/graph/"
+      href="//localhost:1313/tags/graph/"
     />
   </url>
   <url>
-    <loc>./tags/mermaid/</loc>
+    <loc>//localhost:1313/tags/mermaid/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/mermaid/"
+      href="//localhost:1313/it/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/mermaid/"
+      href="//localhost:1313/ja/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/mermaid/"
+      href="//localhost:1313/zh-cn/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/mermaid/"
+      href="//localhost:1313/tags/mermaid/"
     />
   </url>
   <url>
-    <loc>./tags/emoji/</loc>
+    <loc>//localhost:1313/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/emoji/"
+      href="//localhost:1313/it/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/emoji/"
+      href="//localhost:1313/ja/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/emoji/"
+      href="//localhost:1313/zh-cn/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/emoji/"
+      href="//localhost:1313/tags/emoji/"
     />
   </url>
   <url>
-    <loc>./samples/emoji/</loc>
+    <loc>//localhost:1313/samples/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/samples/emoji/"
+      href="//localhost:1313/it/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/samples/emoji/"
+      href="//localhost:1313/ja/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/samples/emoji/"
+      href="//localhost:1313/zh-cn/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./samples/emoji/"
+      href="//localhost:1313/samples/emoji/"
     />
   </url>
   <url>
-    <loc>./guides/template/</loc>
-    <lastmod>1987-12-22T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/guides/template/"
+      href="//localhost:1313/it/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/guides/template/"
+      href="//localhost:1313/ja/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/guides/template/"
+      href="//localhost:1313/zh-cn/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./guides/template/"
+      href="//localhost:1313/tags/advanced/"
     />
   </url>
   <url>
-    <loc>./tags/template/</loc>
-    <lastmod>1987-12-22T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/analytics/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/template/"
+      href="//localhost:1313/it/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/template/"
+      href="//localhost:1313/ja/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/template/"
+      href="//localhost:1313/tags/analytics/"
     />
   </url>
   <url>
-    <loc>./tags/academia/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/advanced/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/advanced/"
+      href="//localhost:1313/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/advanced/"
+      href="//localhost:1313/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/advanced/"
+      href="//localhost:1313/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/advanced/"
+      href="//localhost:1313/categories/"
     />
   </url>
   <url>
-    <loc>./tags/ai/</loc>
+    <loc>//localhost:1313/tags/comments/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/ai/"
+      href="//localhost:1313/it/tags/comments/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/ai/"
+      href="//localhost:1313/ja/tags/comments/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/ai/"
+      href="//localhost:1313/tags/comments/"
     />
   </url>
   <url>
-    <loc>./tags/analytics/</loc>
+    <loc>//localhost:1313/tags/config/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/analytics/"
+      href="//localhost:1313/it/tags/config/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/analytics/"
+      href="//localhost:1313/ja/tags/config/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/analytics/"
+      href="//localhost:1313/tags/config/"
     />
   </url>
   <url>
-    <loc>./tags/app-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/author/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/author-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/blog/</loc>
+    <loc>//localhost:1313/tags/content/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/blog/"
-    />
-  </url>
-  <url>
-    <loc>./tags/book/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/business-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/class/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/college-club-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/comics-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/comments/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/comments/"
+      href="//localhost:1313/it/tags/content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/comments/"
+      href="//localhost:1313/ja/tags/content/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/comments/"
+      href="//localhost:1313/tags/content/"
     />
   </url>
   <url>
-    <loc>./tags/company-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/config/</loc>
+    <loc>//localhost:1313/tags/deployment/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/config/"
+      href="//localhost:1313/it/tags/deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/config/"
+      href="//localhost:1313/ja/tags/deployment/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/config/"
+      href="//localhost:1313/tags/deployment/"
     />
   </url>
   <url>
-    <loc>./tags/content/</loc>
+    <loc>//localhost:1313/tags/docs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/content/"
+      href="//localhost:1313/it/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/content/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/content/"
-    />
-  </url>
-  <url>
-    <loc>./tags/cv/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/cv/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/cv/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/cv/"
-    />
-  </url>
-  <url>
-    <loc>./tags/deployment/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/deployment/"
-    />
-  </url>
-  <url>
-    <loc>./tags/digital-garden/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/docs/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/docs/"
+      href="//localhost:1313/ja/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/docs/"
+      href="//localhost:1313/zh-cn/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/docs/"
+      href="//localhost:1313/tags/docs/"
     />
   </url>
   <url>
-    <loc>./docs/</loc>
+    <loc>//localhost:1313/docs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/docs/"
+      href="//localhost:1313/it/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/docs/"
+      href="//localhost:1313/ja/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/docs/"
+      href="//localhost:1313/zh-cn/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./docs/"
+      href="//localhost:1313/docs/"
     />
   </url>
   <url>
-    <loc>./series/documentation/</loc>
+    <loc>//localhost:1313/series/documentation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/series/documentation/"
+      href="//localhost:1313/it/series/documentation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/series/documentation/"
+      href="//localhost:1313/ja/series/documentation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./series/documentation/"
+      href="//localhost:1313/series/documentation/"
     />
   </url>
   <url>
-    <loc>./tags/documentation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/doll-photography/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/example/</loc>
+    <loc>//localhost:1313/tags/example/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/example/"
+      href="//localhost:1313/it/tags/example/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/example/"
+      href="//localhost:1313/ja/tags/example/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/example/"
+      href="//localhost:1313/tags/example/"
     />
   </url>
   <url>
-    <loc>./tags/favicons/</loc>
+    <loc>//localhost:1313/tags/favicons/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/favicons/"
+      href="//localhost:1313/it/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/favicons/"
+      href="//localhost:1313/ja/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/favicons/"
+      href="//localhost:1313/tags/favicons/"
     />
   </url>
   <url>
-    <loc>./tags/firebase/</loc>
+    <loc>//localhost:1313/tags/firebase/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/firebase/"
+      href="//localhost:1313/it/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/firebase/"
+      href="//localhost:1313/ja/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/firebase/"
+      href="//localhost:1313/zh-cn/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/firebase/"
+      href="//localhost:1313/tags/firebase/"
     />
   </url>
   <url>
-    <loc>./tags/front-matter/</loc>
+    <loc>//localhost:1313/tags/front-matter/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/front-matter/"
+      href="//localhost:1313/it/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/front-matter/"
+      href="//localhost:1313/ja/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/front-matter/"
+      href="//localhost:1313/zh-cn/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/front-matter/"
+      href="//localhost:1313/tags/front-matter/"
     />
   </url>
   <url>
-    <loc>./tags/game-development/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/game-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/games-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/github/</loc>
+    <loc>//localhost:1313/tags/github/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/github/"
+      href="//localhost:1313/it/tags/github/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/github/"
+      href="//localhost:1313/ja/tags/github/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/github/"
+      href="//localhost:1313/zh-cn/tags/github/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/github/"
+      href="//localhost:1313/tags/github/"
     />
   </url>
   <url>
-    <loc>./tags/homepage/</loc>
+    <loc>//localhost:1313/tags/homepage/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/homepage/"
+      href="//localhost:1313/it/tags/homepage/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/homepage/"
+      href="//localhost:1313/ja/tags/homepage/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/homepage/"
+      href="//localhost:1313/tags/homepage/"
     />
   </url>
   <url>
-    <loc>./tags/hosting/</loc>
+    <loc>//localhost:1313/tags/hosting/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/hosting/"
+      href="//localhost:1313/it/tags/hosting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/hosting/"
+      href="//localhost:1313/ja/tags/hosting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/hosting/"
+      href="//localhost:1313/tags/hosting/"
     />
   </url>
   <url>
-    <loc>./tags/icon/</loc>
+    <loc>//localhost:1313/tags/icon/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/icon/"
+      href="//localhost:1313/it/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/icon/"
+      href="//localhost:1313/ja/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/icon/"
+      href="//localhost:1313/tags/icon/"
     />
   </url>
   <url>
-    <loc>./tags/installation/</loc>
+    <loc>//localhost:1313/tags/installation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/installation/"
+      href="//localhost:1313/ja/tags/installation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/installation/"
+      href="//localhost:1313/tags/installation/"
     />
   </url>
   <url>
-    <loc>./tags/layouts/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/layouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/layouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/layouts/"
-    />
-  </url>
-  <url>
-    <loc>./tags/lead/</loc>
+    <loc>//localhost:1313/tags/layouts/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/lead/"
+      href="//localhost:1313/it/tags/layouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/lead/"
+      href="//localhost:1313/ja/tags/layouts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/layouts/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/lead/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="//localhost:1313/it/tags/lead/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/lead/"
+      href="//localhost:1313/zh-cn/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/lead/"
+      href="//localhost:1313/tags/lead/"
     />
   </url>
   <url>
-    <loc>./tags/likes/</loc>
+    <loc>//localhost:1313/tags/likes/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/likes/"
+      href="//localhost:1313/it/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/likes/"
+      href="//localhost:1313/ja/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/likes/"
+      href="//localhost:1313/tags/likes/"
     />
   </url>
   <url>
-    <loc>./tags/modeller/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/netlify/</loc>
+    <loc>//localhost:1313/tags/netlify/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/netlify/"
+      href="//localhost:1313/it/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/netlify/"
+      href="//localhost:1313/ja/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/netlify/"
+      href="//localhost:1313/zh-cn/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/netlify/"
+      href="//localhost:1313/tags/netlify/"
     />
   </url>
   <url>
-    <loc>./tags/new/</loc>
+    <loc>//localhost:1313/tags/new/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/new/"
+      href="//localhost:1313/ja/tags/new/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/new/"
+      href="//localhost:1313/tags/new/"
     />
   </url>
   <url>
-    <loc>./tags/news-that-matters-blog/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/organization-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/outdoor-blog/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/partials/</loc>
+    <loc>//localhost:1313/tags/partials/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/partials/"
+      href="//localhost:1313/it/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/partials/"
+      href="//localhost:1313/ja/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/tags/partials/"
+      href="//localhost:1313/zh-cn/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/partials/"
+      href="//localhost:1313/tags/partials/"
     />
   </url>
   <url>
-    <loc>./tags/personal-blog/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/personal-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/personal-website/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/portfolio-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/project-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/render/</loc>
+    <loc>//localhost:1313/tags/render/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/render/"
+      href="//localhost:1313/it/tags/render/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/render/"
+      href="//localhost:1313/ja/tags/render/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/render/"
+      href="//localhost:1313/tags/render/"
     />
   </url>
   <url>
-    <loc>./tags/seminars/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./series/</loc>
+    <loc>//localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/series/"
+      href="//localhost:1313/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/series/"
+      href="//localhost:1313/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="./zh-cn/series/"
+      href="//localhost:1313/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./series/"
+      href="//localhost:1313/series/"
     />
   </url>
   <url>
-    <loc>./tags/series/</loc>
+    <loc>//localhost:1313/tags/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/series/"
+      href="//localhost:1313/it/tags/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/series/"
+      href="//localhost:1313/ja/tags/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/series/"
+      href="//localhost:1313/tags/series/"
     />
   </url>
   <url>
-    <loc>./tags/software-developer/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/tech-blog/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/technology/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/technology-blog/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/theme-author/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/users/</loc>
+    <loc>//localhost:1313/tags/views/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="./it/tags/users/"
+      href="//localhost:1313/it/tags/views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="./ja/tags/users/"
+      href="//localhost:1313/ja/tags/views/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="./tags/users/"
-    />
-  </url>
-  <url>
-    <loc>./users/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="./zh-cn/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./users/"
-    />
-  </url>
-  <url>
-    <loc>./tags/videogame-developer/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>./tags/views/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="./it/tags/views/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="./ja/tags/views/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="./tags/views/"
+      href="//localhost:1313/tags/views/"
     />
   </url>
 </urlset>
