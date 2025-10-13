@@ -206,7 +206,7 @@ menu:
           name: Mastodon
           url: https://m.otter.homes/@applether
           params:
-              icon: brand-mastodon
+              icon: brand-twitter
 
         
 
