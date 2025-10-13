@@ -59,7 +59,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/sin-line.png
 
     article:
         math: false
