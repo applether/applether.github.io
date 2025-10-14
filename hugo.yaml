@@ -254,3 +254,7 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+# config.yaml
+module:
+  imports:
+    - path: github.com/CaiJimmy/hugo-theme-stack/v3
