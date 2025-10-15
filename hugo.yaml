@@ -258,3 +258,7 @@ markup:
 module:
   imports:
     - path: https://github.com/CaiJimmy/hugo-theme-stack/v3
+
+caches:
+  images:
+    dir: :cacheDir/images
