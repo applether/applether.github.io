@@ -27,4 +27,9 @@ themes
 resources
 
 assets/jsconfig.json
+<<<<<<< Updated upstream
 .DS_Store
+=======
+.hugo_build.lock
+/themes
+>>>>>>> Stashed changes
